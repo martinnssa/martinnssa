@@ -13,9 +13,9 @@ What I actually do for a living.
 What I'm currently suffering through.
 - `git push --force`
 - Getting AWS past the "I deployed it and it works" stage.
-- Machine learning — started with reinforcement learning,
+- Machine learning - started with reinforcement learning,
   now wrestling with the actual math.
-- Data engineering — built a full Big Data pipeline (PySpark, HDFS, Hive) and
+- In data engineering built a full Big Data pipeline (PySpark, HDFS, Hive) and
   still wonder over whether Inmon is top-down or Kimball is.
 
 ### Contact
