@@ -7,6 +7,10 @@ What I actually do for a living.
 - Financial reconciliation scrapers running in production (private, it's client
   data, I don't upload it).
 - **STREET** — event platform in .NET 8 / Angular 19 / AWS.
+- **Nautilus** — operations system for luxury yachts: shifts, work items, ship
+  knowledge, shared notes and an AI agent that runs the same backend
+  operations as the UI. FastAPI · React · React Native/Expo · PostgreSQL ·
+  Terraform on AWS. (Private, it's a product, not a side project.)
 - Daily stack: .NET · Node/TS · Angular · Playwright · PostgreSQL · Docker
 
 ### Learning
